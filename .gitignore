@@ -27,3 +27,12 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# Demo and Test Files
+.editorconfig
+.gitattributes
+.github
+docs
+test
+CHANGELOG.md
+minimal-mistakes-jekyll.gemspec
