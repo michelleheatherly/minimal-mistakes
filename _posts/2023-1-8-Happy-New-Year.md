@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Happy New Year!
+header:
+  image: /assets/images/fireworks.jpg
 categories:
   - Programming
 tags:
