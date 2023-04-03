@@ -22,8 +22,8 @@ subtitle                 : "Cats, Coffee, and Code" # site tagline that appears 
 name                     : "Michelle Heatherly"
 description              : "Full Stack Software Engineer"
 url                      : "https://michelleheatherly.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "michelleheatherly/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "michelleheatherly/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/placeholder-pic.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/transparent-cat.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
