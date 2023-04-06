@@ -13,6 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin_light: "contrast"
 
 # Site Settings
 locale                   : "en-US"
@@ -125,7 +126,13 @@ I am a Full-Stack Software Engineer with 5+ years of professional experience dev
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelleheatherly"
+      # url: "https://github.com/michelleheatherly"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url: "https://gitlab.com/michelleheatherly"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rachael-michelle-heatherly/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -145,6 +152,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/michelleheatherly"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rachael-michelle-heatherly/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
